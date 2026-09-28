@@ -1,0 +1,8 @@
+{
+  "inputHash": "ea49d28c5b1a",
+  "builtAt": "2026-09-28T18:44:33.423Z",
+  "slug": "db-productions",
+  "warnings": [
+    "Neutral brand colour: dark-ground accent falls back to near-white. Provide a secondary colour for a tinted accent."
+  ]
+}
